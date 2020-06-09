@@ -1,0 +1,20 @@
+.red{
+    background: crimson;font-size: larger; font-family: Arial, Helvetica, sans-serif;color: azure; margin-left: 500px; margin-right: 500px;
+}
+
+.parrafo{
+
+font-style: normal;font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.padre{
+
+display: flex; margin-left: 10%;
+
+}
+
+.columna{
+
+    background: crimson; color: white; font-family: Arial, Helvetica, sans-serif; padding: 20px; width: 25%; margin: 10px;
+}
